@@ -22,15 +22,15 @@ Tree and plant health evaluation usually requires expert knowledge — but most 
 
 | Screenshot | Screenshot |
 |-----------|------------|
-| <img src="https://github.com/user-attachments/assets/6d9da191-7e52-40fe-a9bc-244912d7ef51" width="420"> | <img src="https://github.com/user-attachments/assets/4d31fd0f-80a0-47b9-ba65-c8199260defc" width="420"> |
-| <img src="https://github.com/user-attachments/assets/66e1c204-22a5-43ce-9f24-8e9e88d6f2af" width="420"> | <img src="https://github.com/user-attachments/assets/2e0fc706-80fb-4322-909f-c840810af2c5" width="420"> |
-| <img src="https://github.com/user-attachments/assets/621984fd-4b18-4348-8828-d6ab33016ade" width="420"> | <img src="https://github.com/user-attachments/assets/0fd4607b-3fe1-45aa-a0db-ad98105fd0bc" width="420"> |
+| <img src="https://github.com/user-attachments/assets/621984fd-4b18-4348-8828-d6ab33016ade" width="420"> | <img src="https://github.com/user-attachments/assets/4d31fd0f-80a0-47b9-ba65-c8199260defc" width="420"> |
+| <img src="https://github.com/user-attachments/assets/af22c235-53d2-4c3e-aee5-a18929772289" width="420"> | <img src="https://github.com/user-attachments/assets/2e0fc706-80fb-4322-909f-c840810af2c5" width="420"> |
+| <img src="https://github.com/user-attachments/assets/6d9da191-7e52-40fe-a9bc-244912d7ef51 " width="420"> | <img src="https://github.com/user-attachments/assets/0fd4607b-3fe1-45aa-a0db-ad98105fd0bc" width="420"> |
 | <img src="https://github.com/user-attachments/assets/d379bd8d-1b4f-485a-a11f-b89f2b738176" width="420"> | <img src="https://github.com/user-attachments/assets/7b8223cc-ae08-4c28-8c02-276489673d6f" width="420"> |
 | <img src="https://github.com/user-attachments/assets/1b2c3c30-1291-4991-b667-fbc18c498163" width="420"> | <img src="https://github.com/user-attachments/assets/99afdb0b-5fe4-4ab9-9f5a-373bed9e077c" width="420"> |
 | <img src="https://github.com/user-attachments/assets/817f1cae-6b3d-41b1-aee1-848dd624b68f" width="420"> | <img src="https://github.com/user-attachments/assets/5de38d7c-a548-47ce-80a0-c3ae519e1838" width="420"> |
 
 </div>
-<img width="2816" height="1536" alt="jhhcvbuis efbr f" src="https://github.com/user-attachments/assets/af22c235-53d2-4c3e-aee5-a18929772289" />
+
 
 Urban conditions — heat, pollution, low oxygen, compacted soil — make things worse.
 
