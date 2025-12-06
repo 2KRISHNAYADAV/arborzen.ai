@@ -30,6 +30,7 @@ Tree and plant health evaluation usually requires expert knowledge — but most 
 | <img src="https://github.com/user-attachments/assets/817f1cae-6b3d-41b1-aee1-848dd624b68f" width="420"> | <img src="https://github.com/user-attachments/assets/5de38d7c-a548-47ce-80a0-c3ae519e1838" width="420"> |
 
 </div>
+<img width="2816" height="1536" alt="jhhcvbuis efbr f" src="https://github.com/user-attachments/assets/af22c235-53d2-4c3e-aee5-a18929772289" />
 
 Urban conditions — heat, pollution, low oxygen, compacted soil — make things worse.
 
