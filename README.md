@@ -1,300 +1,237 @@
 
-# **ArborZen AI — Decode the Language of Nature**
 
-### *A Sensor-Free, Image-Driven, Multimodal Tree Intelligence System Powered by Gemini 3 Pro*
-
----
-
-##  **Problem**
-
-Tree and plant health evaluation usually requires expert knowledge.
-Most people cannot detect:
-
-* Early fungal infection
-* Leaf dryness or nutrient deficiency
-* Sunburn or wind stress
-* Soil degradation and pH imbalance
-* Pollution-induced leaf coating
-* Microbial decline in urban soils
-* knowledge problem of why we have a chatbot for that in app
-
-Urban conditions — heat, low oxygen, pollution, compacted soil — worsen the problem.
-
-**Result:**
-Millions of plants die unnecessarily due to late diagnosis, bad watering habits, and lack of accessible guidance.
-
-**ArborZen AI solves this** by turning a single image into a complete ecological diagnosis, with no sensors or hardware required.
+<!-- Banner -->
+<h1 align="center">🌿 ArborZen AI — Decode the Language of Nature</h1>
+<h3 align="center">A Sensor-Free, Image-Driven, Multimodal Tree Intelligence System Powered by Gemini 3 Pro</h3>
 
 ---
 
-#  **Solution**
+## 📌 Problem
 
-ArborZen AI is a **holistic ecological intelligence engine** that combines:
+Tree and plant health evaluation usually requires expert knowledge — but most people cannot detect:
 
-* Image analysis (Gemini 3 Pro Vision)
-* Environmental APIs (weather, AQI, humidity, wind)
-* Biological reasoning
-* Predictive stress modeling
-* Natural-language interpretation
+- Early fungal infections  
+- Leaf dryness or nutrient deficiency  
+- Sunburn or wind stress  
+- Soil degradation or pH imbalance  
+- Pollution-induced leaf coating  
+- Low microbial activity in urban soil  
+- General lack of plant knowledge  
 
-The system transforms simple images into a full environmental and biological profile.
+<div align="center">
 
----
+| Screenshot | Screenshot |
+|-----------|------------|
+| <img src="https://github.com/user-attachments/assets/6d9da191-7e52-40fe-a9bc-244912d7ef51" width="420"> | <img src="https://github.com/user-attachments/assets/4d31fd0f-80a0-47b9-ba65-c8199260defc" width="420"> |
+| <img src="https://github.com/user-attachments/assets/66e1c204-22a5-43ce-9f24-8e9e88d6f2af" width="420"> | <img src="https://github.com/user-attachments/assets/2e0fc706-80fb-4322-909f-c840810af2c5" width="420"> |
+| <img src="https://github.com/user-attachments/assets/621984fd-4b18-4348-8828-d6ab33016ade" width="420"> | <img src="https://github.com/user-attachments/assets/0fd4607b-3fe1-45aa-a0db-ad98105fd0bc" width="420"> |
+| <img src="https://github.com/user-attachments/assets/d379bd8d-1b4f-485a-a11f-b89f2b738176" width="420"> | <img src="https://github.com/user-attachments/assets/7b8223cc-ae08-4c28-8c02-276489673d6f" width="420"> |
+| <img src="https://github.com/user-attachments/assets/1b2c3c30-1291-4991-b667-fbc18c498163" width="420"> | <img src="https://github.com/user-attachments/assets/99afdb0b-5fe4-4ab9-9f5a-373bed9e077c" width="420"> |
+| <img src="https://github.com/user-attachments/assets/817f1cae-6b3d-41b1-aee1-848dd624b68f" width="420"> | <img src="https://github.com/user-attachments/assets/5de38d7c-a548-47ce-80a0-c3ae519e1838" width="420"> |
 
-# 🚀 **Core Feature Set (40 Total)**
+</div>
 
-Below are all features grouped into 6 categories.
-
----
-
-## **A. Diagnostic Intelligence (1–10)**
-
-1. Species Identification
-2. Tree Age Estimation
-3. Growth Stage Classification
-4. Remaining Lifespan Prediction
-5. Tree Health Score (0–100)
-6. Oxygen Contribution Score
-7. Pollution Stress Detection
-8. Sunlight Stress Detection
-9. Wind Damage Risk Analysis
-10. Pest & Fungal Pattern Recognition
+Urban conditions — heat, pollution, low oxygen, compacted soil — make things worse.
 
 ---
 
-## **B. Visual & Biometric Analysis (11–18)**
+## 🌱 Solution
 
-11. 3-Zone Stress Map (Upper/Middle/Lower canopy)
-12. Leaf Color Deviation Detection
-13. Dryness & Moisture Loss Level
-14. Canopy Stability Index
-15. Root Stability Estimation
-16. Disease Spread Heatmap
-17. Fungal Evolution Map
-18. Leaf Texture & Vein Pattern Analysis
+**ArborZen AI** turns a **single plant or tree image** into a complete environmental & biological diagnosis using:
 
----
+- **Gemini 3 Pro Vision**  
+- Weather & AQI APIs  
+- Biological reasoning  
+- Predictive modeling  
+- Natural-language interpretation  
 
-## **C. Soil & Subterranean Intelligence (19–25)**
-
-19. Soil Texture Estimation (sand/silt/clay %)
-20. Organic Matter Level
-21. Microbial Activity Indicator
-22. Soil pH Estimation
-23. Soil Compaction Risk
-24. Moisture Retention Capacity
-25. Nutrient Deficiency Detection
+Everything works **without sensors, hardware, or datasets**.
 
 ---
 
-## **D. Environmental Layer (26–32)**
+# 🚀 **Core Feature Set (40 Features)**
 
-26. Auto Weather Data Integration
-27. Temperature Impact Analysis
-28. Humidity & Dew-Point Assessment
-29. AQI Interpretation for Tree Health
-30. Pollution Accumulation Forecast
-31. UV / Sunlight Intensity Risk
-32. Seasonal Stress Modeling
+Features grouped into **6 categories**.
 
 ---
 
-## **E. Predictive Intelligence (33–36)**
+## 🧠 **A. Diagnostic Intelligence (1–10)**
 
-33. 7-Day Drought Risk Prediction
-34. 7-Day Fungal Spread Prediction
-35. 7-Day Sunburn Stress Prediction
-36. 7-Day Overall Health Forecast
-
----
-
-## **F. Human-Readable & Engagement Features (37–40)**
-
-37. Tree Personality Generator
-38. Emotional State Interpretation
-39. Tree Timeline & Growth History
-40. Voice Output (Optional) — Tree "speaks" based on data
+1. Species Identification  
+2. Tree Age Estimation  
+3. Growth Stage  
+4. Lifespan Prediction  
+5. Health Score (0–100)  
+6. Oxygen Contribution Score  
+7. Pollution Stress Detection  
+8. Sunlight Stress Detection  
+9. Wind Damage Risk  
+10. Pest & Fungal Recognition  
 
 ---
 
-#  **Detailed System Description**
+## 👁️ Visual & Biometric Analysis (11–18)
+
+11. 3-Zone Stress Map  
+12. Leaf Color Deviation  
+13. Moisture Loss Detection  
+14. Canopy Stability  
+15. Root Stability Estimation  
+16. Disease Spread Heatmap  
+17. Fungal Evolution Map  
+18. Leaf Texture + Vein Pattern  
 
 ---
 
-## **1. Hyper-Nature Intelligence Dashboard**
+## 🌍 Soil & Subterranean Intelligence (19–25)
 
-A single uploaded image produces:
-
-* Species identity
-* Approximate age
-* Growth stage
-* Lifespan projection
-* Oxygen contribution
-* Stress evaluation
-* Environmental impact analysis (AQI, humidity, wind, heat)
-* Root/canopy stability
-* Health Score
-* Stress zones (upper/middle/lower)
-
-Example output:
-
-> *“Ficus benghalensis — Approx. 45–55 years, Mature Stage, Oxygen-Positive Species, Health Score: 88.”*
+19. Soil Texture Estimation  
+20. Organic Matter Level  
+21. Microbial Activity Indicator  
+22. pH Estimation  
+23. Compaction Risk  
+24. Moisture Retention  
+25. Nutrient Deficiency  
 
 ---
 
-## **2. Nature’s Voice — Interpretive Layer**
+## 🌦️ Environmental Layer (26–32)
 
-ArborZen converts biological & environmental signals into human-readable expression.
+26. Auto Weather Data  
+27. Temperature Impact  
+28. Humidity & Dew-Point  
+29. AQI Interpretation  
+30. Pollution Forecast  
+31. UV Radiation Risk  
+32. Seasonal Stress Modeling  
+
+---
+
+## 📈 Predictive Intelligence (33–36)
+
+33. Drought Prediction  
+34. Fungal Spread Forecast  
+35. Sunburn Stress Forecast  
+36. 7-Day Overall Health Forecast  
+
+---
+
+## 🎭 Human-Readable & Engagement Features (37–40)
+
+37. Tree Personality Generator  
+38. Emotional State Interpreter  
+39. Growth Timeline  
+40. Voice Output (Optional)  
+
+---
+
+# 🖥️ **Hyper-Nature Intelligence Dashboard**
+
+Uploading one image gives:
+
+- Species, age, growth stage  
+- Oxygen contribution  
+- Stress zones  
+- Soil + environment impact  
+- Root + canopy stability  
+- Overall health score  
 
 Example:
 
-> *“My leaves carry a thin layer of dust today. The wind is strong, but my branches hold firm.”*
-
-This emotional tone is fully grounded in real metrics.
+> **Ficus benghalensis — 45–55 years old, Health Score: 88/100**
 
 ---
 
-## **3. Interactive 3-Zone Health Map**
+# 🗣️ **Nature’s Voice Engine**
 
-A canopy divided into:
+The AI converts biological signals into expressive language.
 
-* **Upper Zone** — sunlight + wind risks
-* **Middle Zone** — humidity + fungus
-* **Lower Zone** — shade + pests + soil contact
-
-Each zone includes numeric severity (0–100%).
+> *“My leaves feel dusty today. The wind is strong, but I stand firm.”*
 
 ---
 
-## **4. Subterranean Intelligence**
+# 🌡️ **Environmental Intelligence**
 
-Soil inference includes:
-
-* Organic matter
-* Microbial strength
-* Compaction
-* pH estimation
-* Nutrient absorption potential
-* Texture (sand/silt/clay ratios)
-
-All without sensors.
+- AQI  
+- Wind  
+- Humidity  
+- Pollutants  
+- Heat stress  
+- Dust accumulation  
 
 ---
 
-## **5. Seven-Day Predictive Model**
+# 🌍 Eco-Haven Finder — Clean-Air Location Recommender
 
-ArborZen forecasts:
+User inputs:
 
-* Moisture trend
-* Fungal activity
-* Sunburn likelihood
-* Pollution dust buildup
-* Wind stress impact
-* Soil respiration
+- Country (India → recommends Indian cities first)  
+- State  
+- City  
+- Or Auto-GPS  
 
-This drives the **Smart Care Plan**.
-
----
-
-## **6. Seven-Day Smart Care Plan**
-
-Auto-generated tasks:
-
-* Deep watering schedule
-* Dust removal day
-* Fertilizer timing
-* Pruning recommendations
-* Rest days
-* Soil aeration timing
-
-Plans update with every new scan.
-
----
-
-## **7. Product Recommendation Engine**
-
-ArborZen auto-suggests real products with scientific reasoning:
+Recommends **cleaner places nearby** and **global alternatives**.
 
 Examples:
 
-* **Neem Oil** — fungal + pest prevention
-* **Humic Acid Conditioner** — nutrient absorption & microbial boost
-* **Hose-End Low-Pressure Sprayer** — removes PM2.5 dust
-* **Slow-Release Organic Fertilizer** — long-term health stabilization
-
-Each includes:
-
-* Purpose
-* Usage frequency
-* Expected outcomes
+| Location | AQI | Environment Score |
+|---------|-----|-------------------|
+| Mussoorie, India | 96 | Good |
+| Rishikesh, India | 89 | Good |
+| Zurich, Switzerland | 50 | Excellent |
 
 ---
 
-## **8. Oxygen & Air Quality Intelligence**
+# 🛒 Product Recommendation Engine
 
-The model estimates:
+Scientific reasoning + real product suggestions:
 
-* Daily oxygen output
-* Pollution absorption potential
-* AQI impact on growth
-* Local + global clean-air recommendations
-
-### Companion high-oxygen plants suggested:
-
-* Areca Palm
-* Snake Plant
-* Peepal
-* Bamboo Palm
-* Money Plant
-* Neem
+| Product | Purpose |
+|---------|---------|
+| Neem Oil | Anti-fungal + pest control |
+| Humic Acid | Microbial & nutrient boost |
+| Low-Pressure Sprayer | Dust removal |
+| Slow-Release Fertilizer | Long-term health |
 
 ---
 
-## **9. Eco-Haven Finder (Local + Global Clean-Air Engine)**
+# 🛠 Technical Architecture
 
-User can input:
+- **Gemini 3 Pro Vision**  
+- Weather & AQI external APIs  
+- Structured reasoning chains  
+- Predictive biological modeling  
+- Voice Synthesis (optional)  
+- No sensors. No external ML pipeline.  
 
-* **Country**
-* **State**
-* **City**
-* Or simply use **GPS**
-
-ArborZen recommends cleaner alternatives nearby and globally.
-
-Examples:
-
-* **Mussoorie, India — AQI 96**
-* **Rishikesh, India — AQI 89**
-* **Zurich, Switzerland — AQI 50**
-
-Each includes temperature, AQI, and environmental health rating.
+Built entirely inside **Google AI Studio**.
 
 ---
 
-# 🛠 **Technical Architecture**
+# 🌎 Impact
 
-* **Gemini 3 Pro Vision** — Image→Biological mapping
-* **Weather + AQI APIs** — Environmental context
-* **Structured Reasoning Chains** — Soil, disease, and prediction logic
-* **Multimodal Analysis** — Cross-image history
-* **Voice Synthesis** (optional)
-* Zero sensors, zero datasets, zero external ML pipelines
+ArborZen AI helps:
 
-All built inside **Google AI Studio**.
+- Home gardeners  
+- Urban residents  
+- Schools  
+- NGOs  
+- City green-cover teams  
+- Reforestation programs  
+
+It democratizes ecological intelligence for everyone.
 
 ---
 
-# 🌎 **Impact**
+## 📌 Note
 
-ArborZen AI can support:
+> This app currently includes **40 fully developed features**, and more upgrades will continue to be added.  
+> Find the full documentation and updates in this repository.
 
-* Home gardeners
-* Urban residents
-* Schools
-* Environmental NGOs
-* City green-cover teams
-* Plantation and reforestation programs
+---
 
-It democratizes ecological intelligence and enables expert-level plant care without hardware or cost.
+# ⭐ Contribute  
+Pull requests & feature suggestions are welcome.
 
-
+# 📄 License  
+MIT License.
